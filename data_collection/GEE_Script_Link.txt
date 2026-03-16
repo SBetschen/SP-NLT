@@ -1,0 +1,5 @@
+GEE Script Folder
+https://code.earthengine.google.com/?accept_repo=users/sbetschen/NTL_SR
+
+GEE Script used: "NTL_key_cities"
+https://code.earthengine.google.com/7a26d38b806f32519c105cd2b0b4d83d?noload=true

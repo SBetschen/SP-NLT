@@ -1,0 +1,19 @@
+Analysis completed.
+
+Input learned CSV:  runs_sr\test_metrics_learned.csv
+Input bicubic CSV:  runs_sr\test_metrics_bicubic.csv
+Learned visuals:    runs_sr\test_visuals_learned
+Bicubic visuals:    runs_sr\test_visuals_bicubic
+
+Outputs saved to:   runs_sr\analysis
+
+Subfolders:
+1_organized_data
+2_global_performance
+3_normalized_metrics
+4_improvement_distribution
+5_metric_correlation_analysis
+6_radiometric_accuracy_analysis
+7_visualizations
+8_spatial_case_studies
+9_metric_agreement_analysis
