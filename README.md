@@ -6,5 +6,5 @@ This project focuses on evaluating SR metrics for nighttime satellite imagery.
 Nighttime light data is processed from VIIRS (VNP46A2).
 
 Google Earth Engine script:  
-https://code.earthengine.google.com/658d7c02f026fcd0e7ed415aabb8b5ea
+[https://code.earthengine.google.com/658d7c02f026fcd0e7ed415aabb8b5ea](https://code.earthengine.google.com/7a26d38b806f32519c105cd2b0b4d83d?noload=true)
 
